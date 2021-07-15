@@ -1,0 +1,14 @@
+
+Youtube replacement
+	- Two types of content creators:
+		- Professional. Professionals can host lots of content with *priority*, meaning that their content is kept in cache / low latency, but they *must* hit certain advertising quotas to hold onto their status.
+		- Non professionals (Hobbyists) don't have quotas, but they cannot host their content with server priority.
+	- P2P Hosts get paid money porportional to disk space * bandwidth dedicated, or a sum of both depending on which are in demand (more storage or faster servers)
+		- We expect mass storage to be quite cheap, so people have no fear of deleting videos. BUT, if a creator wants videos to be accessed *quickly*, they have to either be a professional or pay up front.
+	- Companies can pay to store / run ads (after the ad has run, the ad will be removed from the servers. You can pay extra to have persistent, seasonal, or otherwise ads)
+	- People can watch video if they have our client / web client. They need an account / valid client to watch.
+		- People can pay us money for no ads and faster load times (more priority)
+		-
+
+FIRST OBJECTIVES:
+	- Figure out how I'm going to make the 'servers'
